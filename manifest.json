@@ -1,0 +1,16 @@
+{
+  "name": "Agentic CMS Demo",
+  "short_name": "Agentic CMS Demo",
+  "description": "AI-native content engine",
+  "start_url": "/agentic-cms-demo-site/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/agentic-cms-demo-site/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

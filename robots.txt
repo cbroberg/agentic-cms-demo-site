@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cbroberg.github.io/agentic-cms-demo-site/agentic-cms-demo-site/sitemap.xml
